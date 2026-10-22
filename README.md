@@ -2,7 +2,7 @@
 
 A comprehensive data analytics and time-series forecasting project utilizing the **UCI Bike Sharing Dataset**. This project conducts exploratory data analysis (EDA) to uncover patterns in consumer behavior across seasons, weather conditions, and day types, and deploys a predictive validation model for fleet logistics planning.
 
-This project was developed independently during the **Taiwan Experience Education Program (TEEP)**.
+This project was developed independently for 20MET413 - Introduction to Business Analytics as assignment 3.
 
 ---
 
